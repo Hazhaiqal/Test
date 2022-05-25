@@ -1,4 +1,4 @@
-fruits = [ "apple", "banana", "cantaloupe", "durian" ]
+fruits = [ "apple", "banana", "cantaloupe", "durian", "rambutan" ]
 for items in fruits:
     print (items, "juice")
     
